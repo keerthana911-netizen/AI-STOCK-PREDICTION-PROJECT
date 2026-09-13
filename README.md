@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keerthana911-netizen/AI-STOCK-PREDICTION-PROJECT/blob/main/AI_class12_model_KNN_implementation.ipynb)
+
 -> AI Stock Prediction Project (Class 12)
 
 This project implements a **K-Nearest Neighbors (KNN)** model to analyze stock market data.  
